@@ -1,5 +1,5 @@
 # CD24 CART single cell analysis
-This repository contains the single cell analysis script for the paper __BCMA/CD24 CAR-T Cells Target Proliferative and Tumor Initiating Cells and Enhance Tumor Cell Phagocytosis in Multiple Myeloma__.
+This repository contains the single cell analysis script for the paper __BCMA/CD24 CAR-T Cells Target Proliferative and Tumor Initiating Cells and Enhance Tumor Cell Phagocytosis in Multiple Myeloma__. [![DOI](https://zenodo.org/badge/610961429.svg)](https://zenodo.org/badge/latestdoi/610961429)
 
 ## Related Packages
 * [Seurat](https://github.com/satijalab/seurat): an R toolkit for single cell genomics, developed and maintained by the Satija Lab at NYGC.
